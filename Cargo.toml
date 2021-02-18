@@ -1,0 +1,11 @@
+[package]
+name = "comprende"
+version = "1.0.0"
+authors = ["Benjy Wiener <info@BenjyWiener.com>"]
+edition = "2018"
+description = "Python-style collection comprehensions in Rust."
+repository = "https://github.com/BenjyWiener/comprende"
+license = "MIT"
+
+[dependencies]
+clean-macro-docs = "1.0"
